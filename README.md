@@ -64,9 +64,9 @@ Extracts hidden themes by decomposing the TF-IDF matrix into:
 **4. Sentiment Analysis**
 
 Uses VADER to classify each review as:
-✔ Positive
-✔ Negative
-✔ Neutral
+- Positive
+- Negative
+- Neutral
 
 **5. Evaluation Metrics**
 1. Reconstruction Error	: Measures NMF model fit
@@ -114,4 +114,4 @@ python customer_feedback_nmf_sentiment.py
 
 **3. View the results**
 
-Check in the attached csv file.
+Check the attached csv file.
